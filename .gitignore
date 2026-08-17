@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+.playwright-mcp
+.idea/
+agrosentia/
+agrosentia-current.png
+agrosentia-full.png
+cloudflare-build.png
